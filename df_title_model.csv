@@ -1,0 +1,203 @@
+,movieId,primaryTitle
+0,1,Toy Story
+1,6,Heat
+2,11,The American President
+3,17,Sense and Sensibility
+4,19,Ace Ventura: When Nature Calls
+5,25,Leaving Las Vegas
+6,32,12 Monkeys
+7,39,Clueless
+8,47,Se7en
+9,48,Pocahontas
+10,50,The Usual Suspects
+11,62,Mr. Holland's Opus
+12,104,Happy Gilmore
+13,110,Braveheart
+14,111,Taxi Driver
+15,141,The Birdcage
+16,150,Apollo 13
+17,161,Crimson Tide
+18,162,Crumb
+19,163,Desperado
+20,165,Die Hard with a Vengeance
+21,223,Clerks
+22,235,Ed Wood
+23,246,Hoop Dreams
+24,253,Interview with the Vampire: The Vampire Chronicles
+25,260,Star Wars: Episode IV - A New Hope
+26,266,Legends of the Fall
+27,292,Outbreak
+28,293,Léon: The Professional
+29,296,Pulp Fiction
+30,300,Quiz Show
+31,318,The Shawshank Redemption
+32,337,What's Eating Gilbert Grape
+33,339,While You Were Sleeping
+34,344,Ace Ventura: Pet Detective
+35,349,Clear and Present Danger
+36,356,Forrest Gump
+37,357,Four Weddings and a Funeral
+38,364,The Lion King
+39,367,The Mask
+40,370,Naked Gun 33 1/3: The Final Insult
+41,377,Speed
+42,380,True Lies
+43,440,Dave
+44,457,The Fugitive
+45,480,Jurassic Park
+46,500,Mrs. Doubtfire
+47,508,Philadelphia
+48,509,The Piano
+49,520,Robin Hood: Men in Tights
+50,527,Schindler's List
+51,539,Sleepless in Seattle
+52,541,Blade Runner
+53,553,Tombstone
+54,587,Ghost
+55,588,Aladdin
+56,589,Terminator 2: Judgment Day
+57,590,Dances with Wolves
+58,592,Batman
+59,593,The Silence of the Lambs
+60,595,Beauty and the Beast
+61,597,Pretty Woman
+62,608,Fargo
+63,648,Mission: Impossible
+64,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+65,778,Trainspotting
+66,780,Independence Day
+67,858,The Godfather
+68,912,Casablanca
+69,920,Gone with the Wind
+70,1035,The Sound of Music
+71,1036,Die Hard
+72,1080,Monty Python's Life of Brian
+73,1089,Reservoir Dogs
+74,1090,Platoon
+75,1097,E.T. the Extra-Terrestrial
+76,1101,Top Gun
+77,1136,Monty Python and the Holy Grail
+78,1147,When We Were Kings
+79,1183,The English Patient
+80,1189,The Thin Blue Line
+81,1193,One Flew Over the Cuckoo's Nest
+82,1196,Star Wars: Episode V - The Empire Strikes Back
+83,1197,The Princess Bride
+84,1198,Raiders of the Lost Ark
+85,1203,12 Angry Men
+86,1206,A Clockwork Orange
+87,1207,To Kill a Mockingbird
+88,1208,Apocalypse Now
+89,1210,Star Wars: Episode VI - Return of the Jedi
+90,1213,Goodfellas
+91,1214,Alien
+92,1220,The Blues Brothers
+93,1221,The Godfather: Part II
+94,1222,Full Metal Jacket
+95,1225,Amadeus
+96,1230,Annie Hall
+97,1240,The Terminator
+98,1246,Dead Poets Society
+99,1247,The Graduate
+100,1258,The Shining
+101,1265,Groundhog Day
+102,1266,Unforgiven
+103,1270,Back to the Future
+104,1288,This Is Spinal Tap
+105,1289,Koyaanisqatsi
+106,1291,Indiana Jones and the Last Crusade
+107,1304,Butch Cassidy and the Sundance Kid
+108,1307,When Harry Met Sally...
+109,1380,Grease
+110,1393,Jerry Maguire
+111,1394,Raising Arizona
+112,1485,Liar Liar
+113,1580,Men in Black
+114,1617,L.A. Confidential
+115,1641,The Full Monty
+116,1682,The Truman Show
+117,1704,Good Will Hunting
+118,1721,Titanic
+119,1732,The Big Lebowski
+120,1784,As Good as It Gets
+121,1923,There's Something About Mary
+122,1954,Rocky
+123,1961,Rain Man
+124,1968,The Breakfast Club
+125,2028,Saving Private Ryan
+126,2064,Roger & Me
+127,2302,My Cousin Vinny
+128,2324,Life Is Beautiful
+129,2329,American History X
+130,2395,Rushmore
+131,2396,Shakespeare in Love
+132,2571,The Matrix
+133,2677,Buena Vista Social Club
+134,2700,"South Park: Bigger, Longer & Uncut"
+135,2706,American Pie
+136,2762,The Sixth Sense
+137,2791,Airplane!
+138,2797,Big
+139,2858,American Beauty
+140,2859,Stop Making Sense
+141,2918,Ferris Bueller's Day Off
+142,2959,Fight Club
+143,3007,American Movie
+144,3147,The Green Mile
+145,3408,Erin Brockovich
+146,3481,High Fidelity
+147,3578,Gladiator
+148,3753,The Patriot
+149,3897,Almost Famous
+150,3948,Meet the Parents
+151,3949,Requiem for a Dream
+152,3977,Charlie's Angels
+153,3996,"Crouching Tiger, Hidden Dragon"
+154,4022,Cast Away
+155,4226,Memento
+156,4246,Bridget Jones's Diary
+157,4306,Shrek
+158,4963,Ocean's Eleven
+159,4973,Amélie
+160,4979,The Royal Tenenbaums
+161,4993,The Lord of the Rings: The Fellowship of the Ring
+162,4995,A Beautiful Mind
+163,5418,The Bourne Identity
+164,5445,Minority Report
+165,5669,Bowling for Columbine
+166,5952,The Lord of the Rings: The Two Towers
+167,5989,Catch Me If You Can
+168,5995,The Pianist
+169,6331,Spellbound
+170,6539,Pirates of the Caribbean: The Curse of the Black Pearl
+171,6711,Lost in Translation
+172,6874,Kill Bill: Vol. 1
+173,7153,The Lord of the Rings: The Return of the King
+174,7156,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
+175,7361,Eternal Sunshine of the Spotless Mind
+176,7438,Kill Bill: Vol. 2
+177,8622,Fahrenheit 9/11
+178,8874,Shaun of the Dead
+179,33794,Batman Begins
+180,34072,March of the Penguins
+181,45950,An Inconvenient Truth
+182,56367,Juno
+183,58559,The Dark Knight
+184,68157,Inglourious Basterds
+185,79132,Inception
+186,80906,Inside Job
+187,99114,Django Unchained
+188,122888,Ben-Hur
+189,122896,Pirates of the Caribbean: Dead Men Tell No Tales
+190,138212,Spectral
+191,141866,Green Room
+192,142456,The Brand New Testament
+193,143387,Pitch Perfect 3
+194,156605,Paterson
+195,166024,Whiplash
+196,167570,The OA
+197,170745,13 Reasons Why
+198,171495,Cosmos
+199,172591,The Godfather Trilogy: 1901-1980
+200,176601,Black Mirror
+201,183869,Hereditary
